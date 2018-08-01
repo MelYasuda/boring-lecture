@@ -1,0 +1,12 @@
+h2.intro{
+  color: red;
+  font-style: italic;
+}
+p.intro{
+  color: blue;
+  font-weight: bold;
+}
+img.intro{
+  color: orange;
+  font-family: cursive;
+}
