@@ -10,3 +10,10 @@ img.intro{
   color: orange;
   font-family: cursive;
 }
+
+.borderline {
+  border: 1px solid black;
+  color: blue;
+  font-weight: bold;
+  background-color: yellow;
+}
